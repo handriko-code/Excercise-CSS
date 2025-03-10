@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 export default function About() {
   return (
     <section className="justify-center items-center text-white min-h-screen bg-gradient-to-r from-black to-slate-600">

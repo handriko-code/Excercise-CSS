@@ -1,5 +1,5 @@
 import React from 'react'
-import "tailwindcss";
+import 'tailwindcss';
 import MenuItem from './MenuItem';
 import '../app/globals.css';
 
